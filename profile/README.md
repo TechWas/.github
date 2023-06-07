@@ -3,7 +3,7 @@
 |--|--| -->
 
 <div align="center">
-  <img src="https://github.com/TechWas/machine-learning-preview/blob/main/image/logo_green.png"><br>
+  <img src="https://media.discordapp.net/attachments/1092848294717296792/1111614184111743057/Group_40.png" width="100" height="100"><br>
   <i>A convenient way to manage your electronics waste.</i>
 </div>
 

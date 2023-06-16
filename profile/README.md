@@ -91,5 +91,14 @@ In 2021, Indonesia generated an estimated 2 million tonnes of e-waste, which is 
 </div>
 
 <!-- ### TBA -->
+## App Showcase
+<img src="https://media.discordapp.net/attachments/1023598916857499680/1119261807039758386/7.png?width=1202&height=676"></a>
+<img src="https://media.discordapp.net/attachments/1023598916857499680/1119261806653874207/8.png?width=1202&height=676"></a>
+### Machine Learning Demo  
+https://bit.ly/ml-techwaste  
+### App Demo  
+https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view
 
-### References
+## Special Thanks to :  
+mas adri for being the best mentor ever <3  
+pandu-sama for giving meaningful quotes and insight <3  
